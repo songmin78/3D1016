@@ -21,7 +21,7 @@ public class Player : MonoBehaviour
     {
         if(Input.GetKeyDown(KeyCode.W))
         {
-
+            transform.position += new Vector3();
         }
     }
 }
